@@ -1,0 +1,53 @@
+*{
+  font-family: Helvetica Neue LT Std;
+}
+
+
+
+body{
+  padding: 5px !important;  
+}
+
+.logo{
+    display: block;
+    margin: 0 auto !important;
+}
+
+
+.pinInput{
+    display: block;
+    margin: 0 auto !important;
+    width: 400px;
+    height: 50px;
+    color: #cd3137;
+    outline: none;
+}
+
+
+.btn{
+    display: block !important;
+    margin: 0 auto;
+    width: 400px;
+    height: 50px;
+    background-color: #cd3137;
+    color: white;
+    outline: none;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+.btn:hover {
+    color: white !important;
+}
+
+.footer{
+   color: grey;
+   text-align: center;
+   position: absolute;
+   bottom: 20px;
+
+}
+
+.boldRed{
+    color:#cd3137;
+}

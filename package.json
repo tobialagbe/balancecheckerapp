@@ -1,0 +1,29 @@
+{
+  "name": "balancechecker",
+  "version": "1.0.0",
+  "description": "facebook app for crusader sterling",
+  "main": "server.js",
+  "dependencies": {
+    "seriate": "^0.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobiskillz/balancecheckerapp.git"
+  },
+  "keywords": [
+    "facebook",
+    "crusadersterling",
+    "pension"
+  ],
+  "author": "Tobi Alagbe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobiskillz/balancecheckerapp/issues"
+  },
+  "homepage": "https://github.com/tobiskillz/balancecheckerapp#readme"
+}
